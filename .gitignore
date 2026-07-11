@@ -1,0 +1,16 @@
+venv/
+db.sqlite3
+*.pyc
+__pycache__/
+access/__pycache__/
+access/management/__pycache__/
+access/management/commands/__pycache__/
+access/migrations/__pycache__/
+auth_system/__pycache__/
+auth_system/migrations/__pycache__/
+config/__pycache__/
+mock_api/__pycache__/
+mock_api/migrations/__pycache__/
+users/__pycache__/
+users/migrations/__pycache__/
+.env
